@@ -1,0 +1,32 @@
+* {
+    font-family: 'PT Mono', monospace;
+}
+
+.results {
+  margin: 50px;
+  border-style: solid;
+background-color: white;
+}
+
+.head {
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+  justify-content: center;
+  background-color: white;
+}
+
+body {
+background-color: lightgreen;
+}
+
+h1 {
+color: green;
+  margin-right: 20px;
+}
+
+button {
+  background-color: white;
+}
+
+#master {}
